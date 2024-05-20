@@ -1,0 +1,11 @@
+{
+    "dwEntityList": 25984920,
+    "dwLocalPlayerPawn": 24360296,
+    "C_CSPlayerPawnBase": {
+        "m_iIDEntIndex": 5040
+    },
+    "C_BaseEntity": {
+        "m_iTeamNum": 971,
+        "m_iHealth": 820
+    }
+}
