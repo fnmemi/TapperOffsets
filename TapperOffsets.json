@@ -1,11 +1,11 @@
 {
-    "dwEntityList": 25984920,
-    "dwLocalPlayerPawn": 24360296,
+    "dwEntityList": 26882856,
+    "dwLocalPlayerPawn": 25221912,
     "C_CSPlayerPawnBase": {
-        "m_iIDEntIndex": 5040
+        "m_iIDEntIndex": 5032
     },
     "C_BaseEntity": {
-        "m_iTeamNum": 971,
-        "m_iHealth": 820
+        "m_iTeamNum": 963,
+        "m_iHealth": 804
     }
 }
